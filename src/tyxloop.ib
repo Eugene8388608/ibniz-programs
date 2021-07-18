@@ -1,0 +1,18 @@
+\this template makes
+\ "possible to ignore
+\ the exterior loop altogether
+\ and write to the buffers
+\ like to any random access
+\ memory"
+
+\this can be useful because
+\it doesn't skip frames like
+\the exterior loop does
+
+[10000X10000X
+jFFFF^i2Fl1-i27l1.FE&1-
+
+^^
+
+iF0000|!LL1]
+Mpp

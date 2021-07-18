@@ -1,0 +1,1 @@
+Move cursor over the window for random melody. Some programs change melody on a click of a mouse button

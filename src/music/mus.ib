@@ -1,0 +1,32 @@
+\run program only in audio
+\context and copy to video
+AlD0000|@M
+
+\slow down
+.B7C*
+
+
+\d.14/dd280-^5.8%2)*.7FFF&x26ld1-^6.8%v*.7FFF&+
+
+\d23ldD-^B%*
+
+\d2ldd2E0-^5.8%2)*.7FFF&x26ld1-^6.8%v*.7FFF&+
+
+0{dv*sx2Als.6*.8+*s}d3ldd5C0-^B%2)0Vx26ld2-^D%v0V+1.FFFE+4/
+
+\dd26l|5*1)d27l^+xd29l3&*+
+
+\d26l1)|3*x1.002*^
+
+\d26l1)|3*1)1.002*^.FFFF&2)v29ls1.07+1x/dv*v+x1+/
+
+\d3F.FFFF&x3lFF80&| dd6r|d7r&xd5r&|d10r^
+
+\d5lF&20|l\.8&1.FFFE*
+
+
+\echo
+.FFFF&1)1.8*+4280)+3.8/
+
+\crusher
+\.0003dv*x/
