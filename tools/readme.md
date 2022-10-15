@@ -9,6 +9,4 @@ Lua 5.3.6 and later versions don't want to open pipes in binary modes, and becau
 
 I use pixel format `yuvj422p`. I also tried `yuv422` as it's simpler to adapt for IBNIZ but the colors were desaturated a bit.
 
-This converter stores 2 pixels as `VVUU.Y1Y2`,
-where `VV` and `UU` are their average **signed** chroma components (sign bits need to be flipped in bitmaps)
-and `Y1` and `Y2` are luma components of left and right pixels respectively.
+This converter stores each couple of pixels as `VVUU.Y1Y2`, where `VV` and `UU` are their average chroma components and `Y1` and `Y2` are luma components of left and right pixels respectively.
